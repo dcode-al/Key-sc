@@ -1,1 +1,1 @@
-["sudah","udah","belum","belom"]
+["sudah","udah","Sudah","Udah"]
